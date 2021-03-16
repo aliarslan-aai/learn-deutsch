@@ -29,10 +29,8 @@ das ist **eine** tasche (nominative)
 
 Das sind Kinder. They are children. (advanced)
 
-|![alt](./images/6-1.png "image 6-1")|This is sugar in the bottle.|
+|![alt](./images/6-1.png "image 6-1")|This is sugar in the bottle.<br />Das sind **zucker** im die **flache**.|
 |---|---|
-
-das sind **zucker** im die **flache**.
 
 (direct) (indirect)
 
