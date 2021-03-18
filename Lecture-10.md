@@ -73,7 +73,7 @@ all words ending in `ung` is a feminine, always!!!
 </blockquote>
 
 
-#### Abteilung / department
+## Abteilung / department
 
 |Deutsch|English|
 |:---:|:---:|
@@ -111,3 +111,9 @@ Kochen / to cook, Die Kuchen / cake, K&uuml;che / Kitchen
 > make two sentences each with these modal verbs
 * muchten / to want
 * konnnen / can
+
+Ich möchte nicht Ihr Haus kommen.
+Ich mochte ein doner kaufen.
+Ich kann ein doner essen.
+K&ouml;nnen sie ein doner essen?
+kannst du bitte mir helfen?
