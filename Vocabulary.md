@@ -23,6 +23,8 @@
 |to say|sage|||||||
 |to speak|sprechen|spreche|sprichst|spricht|sprechen|sprecht|sprechen|
 |to eat|essen|esse|isst|isst|essen|esst|essen|
+|to know (a thing)|weiß|weiß|weißt|weiß|wissen|wisst|wissen|
+|to know (a person)|kennen|kenne|kennst|kennt|kennen|kennt|kennen|
 
 
 regelmäßig verb --> regular Verb, Unregelmäßig Verb --> irregular Verb
@@ -36,6 +38,10 @@ regelmäßig verb --> regular Verb, Unregelmäßig Verb --> irregular Verb
 |gestern|yesterday|
 |heute nacht|tonight|
 |heute Abend|today evening|
+|right(correct)|Richtig|
+|wrong|Falsch|
+|right (claim)|Recht|
+|right (direction)|Rechts|
 
 ## Typing Special Letters with US Keyboard
 
