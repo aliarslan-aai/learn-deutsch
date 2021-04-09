@@ -44,6 +44,7 @@ One more time please?
 * vor - infront
 * zeischen - between
 * hinter - behind
+* zu - to
 
 
 ![prepositions image](./images/prepositions.jpeg)
@@ -67,4 +68,40 @@ im = in dem
 
 ins = in das
 
-## Further Practice:
+# Further Practice:
+
+ist (is), sind (are)
+
+* Ich h&auml;nge die fotos neben dem Fenster.
+* Der teppich ist in dem wohnzimmer.
+* Der tisch ist in der küche.
+* Die Kaffeemachine ist in der K&uuml;che.
+* Ich liege den schrank in dem schlafzimmer
+* Das baby schl&auml;ft in dem Bett.
+* Die kinder spielen in dem zimmer.
+* Die familia wohnt im house,
+* Das Buch leigt unter dem bet.
+
+### Questions? - Machen fragen
+
+    Ist der Vater in dem badezimmer?
+    Nein, er ist nicht im keller
+
+    Schläft die tante im Wohnzimmer?
+    Ja, sie schläft im Wohnzimmer.
+
+    Ist mein sohn im kinderzimmer?
+    Ja, er ist im kinderzimmer
+
+    Ist die Tochter in dem Arbeitzimmer?
+    Ja, sie ist in dem Arbeitzimmer
+
+    Arbeiten die mütter in dem Garten?
+    Ja, sie Arbeiten in dem Garten.
+
+
+# Homework
+
+#### List all nouns and articles from the objects in the picture.
+
+![homework 2](./images/hw2-lecture17.jpeg)
