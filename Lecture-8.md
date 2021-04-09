@@ -34,7 +34,7 @@ N = das/ein / kein
 
 ## Akkusative
 
-||Norminative||Akkusative||
+||Nomminative||Akkusative||
 |:---: |:---: |:---: |:---: |:---: |
 |Artikle|Bestimmt|Unbestimmt|Bestimmt|Unbestimmt|
 |M|der|ein|den|einen|

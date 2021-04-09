@@ -23,6 +23,8 @@
 |Nephew|der Neffe|
 |Niece|die Nichte|
 |Cousin|der/die Cousin|
+|Bride|Braut|
+|Groom|Br&auml;utigan|
 
 |English|Deutsch|
 |:---:|:---:|

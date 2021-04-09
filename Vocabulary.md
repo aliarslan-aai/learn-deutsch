@@ -1,6 +1,6 @@
 # Verbs
 
-| English|Deutsch|Ich|du|er / sie /es|wir|ihr|Sie(formal)sie(plural)|
+| English|Deutsch|Ich|du|er / sie /es|wir|ihr|Sie(formal) / sie(plural)|
 |--- |--- |--- |--- |--- |--- |--- |--- |
 |drink|trinken|trinke|trinkst|trinkt|trinken|trinkt|trinken|
 |work|arbeiten|arbeite|arbeitest|arbeitet|arbeiten|arbeitet|arbeiten|
@@ -25,6 +25,16 @@
 |to eat|essen|esse|isst|isst|essen|esst|essen|
 |to know (a thing)|weiß|weiß|weißt|weiß|wissen|wisst|wissen|
 |to know (a person)|kennen|kenne|kennst|kennt|kennen|kennt|kennen|
+|to sell|verkaufen|||||||
+|to buy|einkaufen|||||||
+|to do|machen|||||||
+|to start|fangen|||||||
+|to search/look|suchen|||||||
+|to try|versuchen|||||||
+|to visit|besuchen|||||||
+|to plan|plannen|planne|planst|plant|planen|plant|plannen|
+||Brauchen||||
+
 
 
 regelmäßig verb --> regular Verb, Unregelmäßig Verb --> irregular Verb
@@ -42,6 +52,11 @@ regelmäßig verb --> regular Verb, Unregelmäßig Verb --> irregular Verb
 |wrong|Falsch|
 |right (claim)|Recht|
 |right (direction)|Rechts|
+|time|zeit|
+
+Blei­stift, der
+Topf
+Pfanne
 
 ## Typing Special Letters with US Keyboard
 

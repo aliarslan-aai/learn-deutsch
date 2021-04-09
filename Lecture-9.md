@@ -69,7 +69,7 @@ Können sie bitte ausgehen? -&gt; Can you please get lost.
 
 Können wir das meal essen? Can we eat the meal.
 
--   sondern instead (balkay),
+-   sondern instead, rather (balkay),
 
 -   aber but (aabaa)
 
