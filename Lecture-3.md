@@ -12,6 +12,8 @@ Wann? When?
 
 Wie viel? how much?
 
+Wie?
+
 ## Helping Verbs
 
 is ist

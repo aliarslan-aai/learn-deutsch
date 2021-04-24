@@ -47,6 +47,7 @@ wohnung my apartment, der Balkon the balcony, das arbeitzimmer the work
 room, das Schlafzimme, the sleeping room
 
 ![alt](./images/4-2.jpg "image 4-2")
+
 1818 eintausendacthundertachtzehn
 
 2772 zweitausendseibenhundertzweiundseibzig

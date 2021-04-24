@@ -19,7 +19,8 @@
 |lie, comes in|liegen|liege|liegst|liegt|liegen|liegt|liegen|
 |to read|lesen|||||||
 |to write|schreiben|||||||
-|to see|hören|||||||
+|to see|sehen|||||||
+|to talk|reden|||||||
 |to say|sage|||||||
 |to speak|sprechen|spreche|sprichst|spricht|sprechen|sprecht|sprechen|
 |to eat|essen|esse|isst|isst|essen|esst|essen|
@@ -33,9 +34,25 @@
 |to try|versuchen|||||||
 |to visit|besuchen|||||||
 |to plan|plannen|planne|planst|plant|planen|plant|plannen|
-||Brauchen||||
-
-
+|need|Brauchen||||
+|to sit|siezen|
+|to hear|h&ouml;ren|
+|to lernen|lernen|
+|to live|leben|
+|to travel|reisen|
+|to fly|fliegen|
+|to walk|laufen|
+|to run|rennen|
+|to teach|unterrichten|
+|to explain|erklären|
+|to count|zählen|
+|to enter|einsteigen|
+|to exit|aufsteigen ~~~~~!!!!@@##@$%%%%%|
+|to cook|kochen|
+|to sell|verkaufen|
+|to shop|kaufen|
+|to buy|einkaufen|
+|to clean|aufr&auml;umen, putzen|
 
 regelmäßig verb --> regular Verb, Unregelmäßig Verb --> irregular Verb
 
@@ -53,6 +70,12 @@ regelmäßig verb --> regular Verb, Unregelmäßig Verb --> irregular Verb
 |right (claim)|Recht|
 |right (direction)|Rechts|
 |time|zeit|
+|lecture|unterricht|
+|number, couting|zahlen|
+|to note|notiert|
+|the person who cooks|koch|
+|kicthen|K&uuml;che|
+|cake|Kuchen|
 
 Blei­stift, der
 Topf
