@@ -13,18 +13,17 @@
 |carry, carry, bear|tragen (IR)|trage|trägst|trägt|tragen|tragt|tragen|
 |sleep|schlafen (IR)|schlafen|schläfst|schläft|schlafen|schlaft|schlafen|
 |fall|fallen (IR)|falle|fällst|fäallt|fallen|fallt|fallen|
-|know|wissen (IR)|weiß|weißt|weißt|wissen|wisst|wissen|
+|know|weißen (IR)|weiß|weißt|weißt|wissen|wisst|wissen|
 |take|nehmen (IR)|nehme|nimmst|nimmt|nehmen|nehmt|nehmen|
 |teach, educate, inform|unterrichten (IR)|unterrichete|unterrichtest|unterichtete|unterrichten|unterrichtet|unterrichten|
 |lie, comes in|liegen|liege|liegst|liegt|liegen|liegt|liegen|
 |to read|lesen|||||||
-|to write|schreiben|||||||
+|to write|schreiben|schreibe|schreibst|schreibt|schreiben|schreibt|schreiben|
 |to see|sehen|||||||
 |to talk|reden|||||||
 |to say|sage|||||||
 |to speak|sprechen|spreche|sprichst|spricht|sprechen|sprecht|sprechen|
 |to eat|essen|esse|isst|isst|essen|esst|essen|
-|to know (a thing)|weiß|weiß|weißt|weiß|wissen|wisst|wissen|
 |to know (a person)|kennen|kenne|kennst|kennt|kennen|kennt|kennen|
 |to sell|verkaufen|||||||
 |to buy|einkaufen|||||||
@@ -36,9 +35,9 @@
 |to plan|plannen|planne|planst|plant|planen|plant|plannen|
 |need|Brauchen||||
 |to sit|siezen|
-|to hear|h&ouml;ren|
+|to hear|h&ouml;ren|h&ouml;re|h&ouml;rst|h&ouml;rt|h&ouml;ren|h&ouml;rt|h&ouml;ren|
 |to lernen|lernen|
-|to live|leben|
+|to live|leben|lebe|lebst|lebt|leben|lebt|leben|
 |to travel|reisen|
 |to fly|fliegen|
 |to walk|laufen|

@@ -49,3 +49,21 @@ Woher kommt ihr? Where are you from? (2-3 people)
 ## Homework:
 
     Read three pages from Hira.
+
+# My Introduction
+
+    I am Ali Arslan.
+    I am twenty-seven years old.
+    I am married.
+    I am single.
+    I live in Berlin in Lichtengerg.
+    I am a software engineer by profession.
+    My hobbies are running and cooking.
+
+    Ich bin Ali Arslan.
+    Ich bin siebenundzwanzig Jahre alt.
+    Ich bin verheiratet.
+    Ich bin ledig.
+    Ich wohne in Berlin in Lichtengerg.
+    Ich bin von Beruf Software-Ingenieur.
+    Meine Hobbys sind Rennen und Kochen.
