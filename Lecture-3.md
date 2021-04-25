@@ -48,6 +48,7 @@ Subject + verb + object
 |Computer|Der Computer|Die Computer|
 |School|Die Schule|Die Schulen|
 |Key|Der Schlüssel|Die Schlüssel|
+|Bowl|Die Schüssel|Die Schüssel|
 |Glass|Das Glas|Die Glaeser (ap: glayza)|
 |Lamp|Die Lampe|Die Lampen|
 |Phone|Das Handy|Die Telefone|
@@ -56,10 +57,15 @@ Subject + verb + object
 |Cup|Die Tasse|Die Tassen|
 |Chair/stool|Der Stuhl|Die Stühle|
 |Pen|Der Stift, Der Kuli, Der Kugelschriber|Die Stifte|
+|Pencil|Der Bleistift|Die Bleistifte|
 |Sofa|Das Sofa|Die Sofas|
 |Cutain|Die Vorhang|Die Vorhänge|
 |Bag|Die Tasche|Die Taschen|
 |Yeast|Die Hefe|Die Hefe|
+|Flower|Die Blumme|Die Blummen|
+|Notebook|Der Heft|Die Hefte|
+|Spiral Book|Der Block|Die Bl&ouml;cke|
+|Clock|Die Uhr|Die Uhren|
 
 
 ## Homework:
@@ -72,3 +78,14 @@ Subject + verb + object
 |Laptop|der Laptop|die Laptops|
 |Fork|die Gabel|die Gabeln|
 |Spoon|der Löffel|die Löffel|
+
+
+## Name - Place - Thing
+
+|Stadt|Land|Verb|W&ouml;rten|
+|---|---|---|---|
+|City|Country|Verb|Worten|
+|Peshawar|Pakistan, Portugal|plannen, putzen|papier, pulver, pflanzen|
+|London|Luxemberg|Lernen, Leigen|Lampe|
+|Istanbul|Indonesia||immobilien|
+|Dadocha|Denmark|Drucken, Durfen(allow)|Drogiemarkt, Doner, Druckerei|
